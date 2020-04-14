@@ -1,4 +1,4 @@
-﻿Postcode,Locality,State,Longitude,Latitude,Gender,Age,MHR,MHR Normalized
+﻿Postcode,Locality,State,Longitude,Latitude,Gender,Age,MHR,MHR_Normalized
 800,DARWIN,NT,131,-12,F,46,0.144591822,14
 801,DARWIN,NT,130.8367,-12.4587,F,48,0.001305254,0
 804,PARAP,NT,130.8733,-12.4280,F,43,0.012234020,1
